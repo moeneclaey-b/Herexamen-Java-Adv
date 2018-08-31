@@ -22,6 +22,8 @@ public class UI implements InitializingBean {
         JFrame jFrame = new JFrame();
         jFrame.setLayout(new GridLayout(1, 1));
 
+        jFrame.setSize(500, 500);
+
         JButton jButton1 = new JButton();
         jButton1.setText("Initializeer");
         jButton1.setPreferredSize(new Dimension(40, 40));
@@ -42,6 +44,8 @@ public class UI implements InitializingBean {
     public void initAlles(){
 	    JFrame jFrame = new JFrame();
 	    jFrame.setLayout(new GridLayout(2,1));
+
+	    jFrame.setSize(800, 1000);
 
 	    JButton jButton2 = new JButton();
 	    jButton2.setText("Laad hele tekst");

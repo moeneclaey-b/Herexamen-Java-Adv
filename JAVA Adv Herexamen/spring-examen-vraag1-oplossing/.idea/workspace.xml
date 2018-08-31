@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/view/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+            <state relative-caret-position="178">
+              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
               <folding>
                 <element signature="e#251#252#0" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
@@ -50,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quote.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Quote.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/jpa/Quote.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -75,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/jpa/QuoteRepository.java" />
         <option value="$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/QuoteApplication.java" />
-        <option value="$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/view/UI.java" />
         <option value="$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/jpa/Quote.java" />
+        <option value="$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/view/UI.java" />
       </list>
     </option>
   </component>
@@ -100,7 +100,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="403" />
     <option name="y" value="6" />
     <option name="width" value="980" />
@@ -245,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535714096273</updated>
-      <workItem from="1535714099413" duration="4018000" />
+      <workItem from="1535714099413" duration="4558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4018000" />
+    <option name="totallyTimeSpent" value="4558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -310,23 +310,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/jpa/Quote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/view/UI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+        <state relative-caret-position="178">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
           <folding>
             <element signature="e#251#252#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
             <element signature="e#733#734#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SPRING-EXAMEN-JAVA2-VRAAG1/src/main/java/edu/ap/spring/jpa/Quote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
